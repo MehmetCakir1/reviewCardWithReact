@@ -1,0 +1,10 @@
+@import './variables';
+
+footer {
+  background-color: $grey;
+  padding: 2rem;
+  .title {
+    color: white;
+    text-align: center;
+  }
+}
